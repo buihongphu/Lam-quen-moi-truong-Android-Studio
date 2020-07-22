@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <h1 style="color:red;"> Lam-quen-moi-truong-Android-Studio</h1>
 <h2> Ngày 22/07/2020</h2>
 <ul><h3>1</h3>
@@ -58,4 +60,4 @@
 <li><a href="https://github.com/buihongphu/SQLiteDemoApplicationActivity">Lập trình cơ sở dữ liệu Android với SQL</a></li>
 <li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1/">Bài học</a></li>  
 </ul>
-
+</html>
