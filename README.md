@@ -8,6 +8,7 @@
 <li><a href="https://github.com/buihongphu/CommonGesturesActivity">Phát triển cử chỉ người dùng với lớp Android Gesture Detecto</a></li>
 <li><a href="https://github.com/buihongphu/MenuExampleActivity">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android</a></li>
 <li><a href="https://github.com/buihongphu/ExplicitIntent1">Đối tượng Intent trong Android</a></li>
+<li><a href="https://github.com/buihongphu?tab=repositories">Đối tượng Intent trong Android (phần 3)</a></li>
 <li><a href="https://github.com/buihongphu/ImplicitIntent1">Ứng dụng Android dùng đối tượng Intent ngầm định </a></li>
 <li><a href="https://github.com/buihongphu/SQLiteDemoApplicationActivity">Lập trình cơ sở dữ liệu Android với SQL</a></li>
 
