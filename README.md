@@ -6,5 +6,6 @@
 <li><a href="https://github.com/buihongphu/Calculator">Ứng dụng máy tính đơn giản Android</a></li>
 <li><a href="https://github.com/buihongphu/CommonGesturesActivity">Phát triển cử chỉ người dùng với lớp Android Gesture Detecto</a></li>
 <li><a href="https://github.com/buihongphu/ExplicitIntent1">Đối tượng Intent trong Android</a></li>
+<li><a href="https://github.com/buihongphu/ImplicitIntent1">Ứng dụng Android dùng đối tượng Intent ngầm định </a></li>
 <li><a href="https://github.com/buihongphu/SQLiteDemoApplicationActivity">Lập trình cơ sở dữ liệu Android với SQL</a></li>
 
