@@ -1,4 +1,4 @@
-<h1> Lam-quen-moi-truong-Android-Studio</h1>
+<h1 sytle="red;"> Lam-quen-moi-truong-Android-Studio</h1>
 <h2> Ngày 22/07/2020</h2>
 <ul><h3>1</h3>
   <li><a href="https://github.com/buihongphu/HelloWord">Làm quen môi trường Android Studio và ứng dụng Android</a></li>
