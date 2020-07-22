@@ -4,8 +4,14 @@
   <li><a href="https://github.com/buihongphu/HelloWord">Làm quen môi trường Android Studio và ứng dụng Android</a></li>
   <li><a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">Bài học</a></li>
 </ul>
+<ul>
 <li><a href="https://github.com/buihongphu/BasicViewsActivity">Thiết lập và nhận thông tin từ các Android views</a></li>
+<li><a href="https://ngocminhtran.com/2018/08/12/thiet-ke-giao-dien-nguoi-dung-voi-cong-cu-thiet-ke-android-studio-3-x/">Bài học</a></li>
+</ul>
+<ul>
 <li><a href="https://github.com/buihongphu/MotionEventActvity">Làm quen môi trường Android Studio và ứng dụng Android</a></li>
+  <li><a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">Làm quen môi trường Android Studio và ứng dụng Android</a></li>
+</ul>
 <li><a href="https://github.com/buihongphu/FragmentExampleActivtiy">Dư án Fragment Android</a></li>
 <li><a href="https://github.com/buihongphu/Calculator">Ứng dụng máy tính đơn giản Android</a></li>
 <li><a href="https://github.com/buihongphu/findViewById1">Thiết lập và nhận thông tin từ các Android views</a></li>
