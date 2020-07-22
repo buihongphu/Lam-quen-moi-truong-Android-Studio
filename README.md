@@ -11,7 +11,7 @@
 </ul>
 
 <ul>
-<li><a href="https://github.com/buihongphu/MotionEventActvity">Làm quen môi trường Android Studio và ứng dụng Android</a></li>
+<li><a href="https://github.com/buihongphu/MotionEventActvity">Làm quen môi trường Android Studio và ứng dụng Android (phần 2 )</a></li>
  <li><a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">Bài học</a></li>
 </ul>
 
