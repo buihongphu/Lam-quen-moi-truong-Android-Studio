@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<h1 style="color:red;"> Lam-quen-moi-truong-Android-Studio</h1>
+     <h1><center>Android Studio</center></h1>
      
 <h2> Ngày 22/07/2020</h2>
 <ul><h3>1</h3>
