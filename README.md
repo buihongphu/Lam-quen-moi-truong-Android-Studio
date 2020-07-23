@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
-<h1 style="color:red;"> Lam-quen-moi-truong-Android-Studio</h1>
-<h2 style="color:red;"> Ngày 22/07/2020</h2>
+<h1> Lam-quen-moi-truong-Android-Studio</h1>
+  <style>
+    h1{
+    color: red;
+    }
+  </style>      
+<h2> Ngày 22/07/2020</h2>
 <ul><h3>1</h3>
   <li><a href="https://github.com/buihongphu/HelloWord">Làm quen môi trường Android Studio và ứng dụng Android</a></li>
   <li><a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">Bài học</a></li>
