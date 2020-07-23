@@ -61,5 +61,5 @@
 <li><a href="https://github.com/buihongphu/SQLiteDemoApplicationActivity">Lập trình cơ sở dữ liệu Android với SQL</a></li>
 <li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1/">Bài học</a></li>  
 </ul>
-<li><img src="https://www.pinterest.com/pin/759349187152803419/" alt="Hình ảnh không tồn tại"></li>
+<li><img src="https://www.pinterest.com/pin/759349187152803419/" alt="Hình ảnh có tồn tại"></li>
 </html>
