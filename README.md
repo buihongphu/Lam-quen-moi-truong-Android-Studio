@@ -2,7 +2,7 @@
 <html>
      <h1><center>Android Studio</center></h1>
      
-<h2> Ngày 22/07/2020</h2>
+<h3> Ngày 22/07/2020</h3>
 <ul><h3>1</h3>
   <li><a href="https://github.com/buihongphu/HelloWord">Làm quen môi trường Android Studio và ứng dụng Android</a></li>
   <li><a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">Bài học</a></li>
