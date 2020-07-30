@@ -49,7 +49,7 @@
 </ul>
 
 <ul><h3>10</h3>
-<li><a href="https://github.com/buihongphu?tab=repositories">Đối tượng Intent trong Android (phần 2)</a></li>
+<li><a href="https://github.com/buihongphu/ExplicitIntent1">Đối tượng Intent trong Android (phần 2)</a></li>
 <li><a href="https://ngocminhtran.wordpress.com/?p=3508&preview=true">Bài học</a></li>
 </ul>
 
